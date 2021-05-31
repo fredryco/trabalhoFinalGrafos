@@ -2,7 +2,7 @@
 
 import math, re, sys
 
-# forma como deve ser utilizado: python verificador.py arquivoEntrada arquivoFinal
+# forma como deve ser utilizado: python pcvVerificador.py arquivoEntrada arquivoFinal
 
 def main(arquivoEntrada, arquivoFinal):
 	valoresEntrada = leituraValoresEntrada(arquivoEntrada)
